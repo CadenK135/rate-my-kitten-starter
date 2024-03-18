@@ -1,8 +1,8 @@
 ## rate-my-kitties
 
-First name:
+First name: Caden
 
-Last name:
+Last name: Kolbly
 
 Go to `script.js` and finish all the `TODO`s in the file.
 
